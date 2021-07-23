@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="container">
       <Header />
-      <Logo />
+      <Logo/>
       <Search />
       <GoogleSearch />
       <Offerings />

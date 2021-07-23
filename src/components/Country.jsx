@@ -1,7 +1,9 @@
-import React from "react";
+import React from 'react';
 
 const Country = () => {
-  return <div className="country">Ghana</div>;
-};
-
+    return ( 
+              <div class = "country">Ghana</div>
+     );
+}
+ 
 export default Country;
